@@ -10,7 +10,7 @@ A Backend Software Web Engineer who is high;y motivated with a passion for solvi
                     > Mail: otunlaisaac8@gmail.com
                     > LinkedIn: www.linkedin.com/in/oluwatimilehin-otunla-isaac
 
-[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](url)
+[]([url](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg))
 <!--
 **Duade10/Duade10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
