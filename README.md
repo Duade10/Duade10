@@ -6,12 +6,15 @@ A Backend Software Web Engineer who is high;y motivated with a passion for solvi
 
 👯 I'm hoping to work with others on Open Source projects.
 
-📫 How to reach me:
-                    . Mail: otunlaisaac8@gmail.com
-                    . LinkedIn: www.linkedin.com/in/oluwatimilehin-otunla-isaac
-LANGUAGES AND TOOL
-   ![Python Logo](https://www.python.org/static/img/python-logo.png), 
+### 📫 How to reach me:
++ Mail: otunlaisaac8@gmail.com
++ LinkedIn: [@otunlatimi](www.linkedin.com/in/oluwatimilehin-otunla-isaac)
 
+### LANGUAGES AND TOOL  🛠️:
++ [@otunlatimi](www.linkedin.com/in/oluwatimilehin-otunla-isaac)
+<picture>
+<img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029">
+</picture>
 
 <!--
 **Duade10/Duade10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
