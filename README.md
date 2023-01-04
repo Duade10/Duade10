@@ -4,7 +4,7 @@ A Backend Software Web Engineer who is highly motivated with a passion for solvi
 
 🔭 I'm now working on integrating backend capabilities to a variety of frontend templates I found on [themewagon.com](https://themewagon.com/). It's fun (somebody save me 😭).
 
-👯 I'm hoping to work with others on Open Source projects.
+👯 I'm hoping to work with others on Open Source projects
 
 ### 📫 How to reach me:
 + Mail: otunlaisaac8@gmail.com
