@@ -2,7 +2,7 @@
 _____________________________________________________________________
 A Backend Web Engineer who is highly motivated with a passion for solving complex problems and creating efficient software solutions.
 
-🔭 I'm now working on integrating backend capabilities to a variety of frontend templates I found on [themewagon.com](https://themewagon.com/). It's fun (somebody save me 😭).
+🔭 I'm now working on integrating backend capabilities to a variety of frontend templates I found on [themewagon.com](https://themewagon.com/). It's fun.
 
 👯 I'm hoping to work with others on Open Source projects.
 
