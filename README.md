@@ -1,28 +1,31 @@
-### Hi there 👋, my name is Oluwatimilehin or Timi or Duade😄 .
-_____________________________________________________________________
-A Backend Web Engineer who is highly motivated with a passion for solving complex problems and creating efficient software solutions.
+# Hi, I'm Duade Isaac - Python, Django Web Developer 🚀
 
-🔭 I'm now working on integrating backend capabilities to a variety of frontend templates I found on [themewagon.com](https://themewagon.com/). It's fun.
+I am a web developer with a passion for building robust and scalable web applications using Python and the Django web framework 🐍. I am proficient in Django Rest Framework 🔥, HTML, CSS, Bootstrap 🎨, and JavaScript, and have a good understanding of frontend development. Why does this sound like a resume? 🤔.
 
-👯 I'm hoping to work with others on Open Source projects.
+Here some of the fun projects that I built:
 
-### 📫 How to reach me:
-+ Mail: otunlaisaac8@gmail.com
-+ LinkedIn: [@otunlatimi](https://www.linkedin.com/in/oluwatimilehin-otunla-isaac)
+- otunlatimilehin.pythonanywhere.com
+- paulicy.pythonanywhere.com
+- lamidepaul.pythonanywhere.com
 
+I am currently building backend features into templates I found on [themewagon.com](https://themewagon.com/) and always looking for new challenges and ways to improve my skills.
 
+If you're looking for a dedicated and experienced Python and Django developer to help bring your web application to life, feel free to reach out to me at otunlaisaac8@gmail.com. I will be happy to discuss your project and provide a quote.
 
-<!--
-**Duade10/Duade10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- [Python](https://www.python.org/) 🐍
+- [Django](https://www.djangoproject.com/) 💻
+- [Django Rest Framework](https://www.django-rest-framework.org/) 🔥
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) 📄
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) 🎨
+- [Bootstrap](https://getbootstrap.com/) 🛍
+- JavaScript
 
-Here are some ideas to get you started:
+## Experience
+- Developing and maintaining web applications using Python and Django
+- Creating APIs using Django Rest Framework
+- Implementing responsive design using HTML, CSS and Bootstrap
+- Building backend features into template
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+You can reach me at otunlaisaac8@gmail.com, [LinkedIn](https://www.linkedin.com/in/oluwatimilehin-otunla-isaac/)
