@@ -63,6 +63,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Duade10/Duade10/output/snake.svg" alt="Snake animation" />
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hnan2d7syys5ehoc5cshrwzeje&count=1)
 
 ###
