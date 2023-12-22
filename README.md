@@ -1,19 +1,68 @@
-# Hi, I'm Duade Isaac - Python, Backend Developer 🚀
+<div align="center">
+  <img height="150" src="https://res.cloudinary.com/dpasfri0b/image/upload/v1703256721/_4e3ae3e3-4992-42ae-8d0f-a544333e69d0_ljfhby.jpg"  />
+</div>
 
-I am a web developer with a passion for building robust and scalable web applications using Python and the Django web framework 🐍. I am proficient in Django Rest Framework 🔥, HTML, CSS, Bootstrap 🎨, and JavaScript, and have a good understanding of frontend development. Why does this sound like a resume? 🤔.
+###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/oluwatimilehin-otunla-isaac/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/duadeOmoOtunla" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
 
-If you're looking for a dedicated and experienced Python and Django developer to help bring your web application to life, feel free to reach out to me at otunlaisaac8@gmail.com. I will be happy to discuss your project and provide a quote.
+###
 
-## Skills
-- [Python](https://www.python.org/) 🐍
-- [Django](https://www.djangoproject.com/) 💻
-- [Django Rest Framework](https://www.django-rest-framework.org/) 🔥
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) 📄
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) 🎨
-- [Bootstrap](https://getbootstrap.com/) 🛍
-- JavaScript
+<h1 align="center">What's up? 👋</h1>
 
+###
 
-## Contact
-You can reach me at otunlaisaac8@gmail.com, [LinkedIn](https://www.linkedin.com/in/oluwatimilehin-otunla-isaac/)
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Duade from Nigeria 🇳🇬<br><br>- 🔭 I’m working as a Backend Developer<br>- 📚 I'm currently learning Node and Francais</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Duade10&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Duade10/Duade10/output/snake.svg" alt="Snake animation" />
+
+###
