@@ -23,7 +23,10 @@
 
 ###
 
-<p align="left">I'm Duade from Nigeria 🇳🇬<br><br>- 🔭 I’m working as a Backend Developer<br>- 📚 I'm currently learning Node and Francais</p>
+<p align="left">I'm Duade from Nigeria 🇳🇬<br><br>- 🔭 I am a full-stack developer with a strong focus on Backend Development with Python <br>- 📚 I'm currently learning Node and Francais</p>
+
+
+<p algn="left">I also have experience across several domains: <br>- 🕸 Web Application Development<br>- 📲 API Development<br>- 💾 Automation and Data Management<br>- 🤖 Freelance work in Slack Bot Development</p>
 
 ###
 
