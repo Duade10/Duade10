@@ -59,11 +59,12 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+[![trophy](https://github-profile-trophy.vercel.app/?username=Duade10&theme=monokai&row=2&column=3&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Duade10&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![Github stats](https://github-readme-stats.vercel.app/api?username=Duade10&theme=gruvbox)
+
+###
+![streak graph](https://streak-stats.demolab.com?user=Duade10&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&no-bg=true)
 
 ###
 
